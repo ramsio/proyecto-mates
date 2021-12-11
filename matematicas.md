@@ -2,6 +2,8 @@
 
 Hola, esto es un fichero de lectura para nuestro repositorio.
 
-Esta es una modificacion.
+Modificacion 1
 
-Haciendo modificaciones en nuestro proyecto actual.
+Modificacion 2
+
+Ultimas modificaciones
