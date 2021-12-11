@@ -1,1 +1,1 @@
-Este sera un fichero para mostrar los commits a revertir, agregando datos faltantes al archivo.
+Realizando cambios en el fichero.
