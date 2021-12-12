@@ -2,8 +2,4 @@
 
 Hola, esto es un fichero de lectura para nuestro repositorio.
 
-Modificacion 1
-
-Modificacion 2
-
-Ultimas modificaciones
+Estos cambios se haran efectivos con rebase
