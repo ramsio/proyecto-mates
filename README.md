@@ -1,1 +1,3 @@
-Realizando cambios en el fichero.
+Realizando mi primer commit
+
+Realizando un segundo commit
